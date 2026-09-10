@@ -1,1 +1,1 @@
-# Ci-ncia_Dados_Apedizagem_Maquina
+# Ciencia_Dados_Apedizagem_Maquina
