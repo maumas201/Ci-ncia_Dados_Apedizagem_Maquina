@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.dbc
+*.dbf
+reproducao/dados/
