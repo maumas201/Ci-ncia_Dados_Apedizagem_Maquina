@@ -1,9 +1,0 @@
-{
-  "sha256_nomes": "5290928f393649408195050f3fb85d9f2af31e51cdb0c7699fae1df96553e3db",
-  "sha256_csv": "6b27b1e9071f47f197ca3cd300176865a971146a619afdba16bad1dffa567443",
-  "python": "3.12.14",
-  "pandas": "2.2.3",
-  "matplotlib": "3.10.8",
-  "conciliacao_tabnet": "nao_realizada",
-  "escopo": "reprodu\u00e7\u00e3o a partir de agregados, n\u00e3o nova extra\u00e7\u00e3o DBC"
-}
