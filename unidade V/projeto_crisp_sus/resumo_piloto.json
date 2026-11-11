@@ -1,0 +1,134 @@
+{
+  "inventario": [
+    {
+      "arquivo": "RDDF2506.dbc",
+      "bytes_dbc": 1703052,
+      "sha256": "434bd87904739e470fc9a82e1ef3a7ceeac8dd26b2c89e4c5f21fc3cfa0954a3",
+      "bytes_dbf": 14872161,
+      "sha256_dbf": "ea824f2f86dda641e6641ca65f81ece62c7f4be5e6ff5c0f9b41bbf3d8c9589a",
+      "linhas": 21120,
+      "colunas": 114,
+      "cnes_distintos": 32,
+      "duplicatas_completas": 0,
+      "nulos_python": 0,
+      "ausentes_com_brancos": 361103,
+      "origem_recebida": "Cópia local recebida em 16/10/2026; download inicial não autenticado",
+      "download_original_em": null,
+      "url_original_confirmada": null,
+      "versao_layout": "Cabeçalho físico inspecionado; correspondência documental integral não verificada"
+    },
+    {
+      "arquivo": "STDF2506.dbc",
+      "bytes_dbc": 346976,
+      "sha256": "e9d3ad35db1c7707e65e98af8af1675b0275764814faaf6aedb7d0c53679fd05",
+      "bytes_dbf": 3095001,
+      "sha256_dbf": "34e7ae4ec833b9ce73b513307671a92a4ccdc48ecd47e8e804adf43b8a5ca12c",
+      "linhas": 6189,
+      "colunas": 208,
+      "cnes_distintos": 6189,
+      "duplicatas_completas": 0,
+      "nulos_python": 0,
+      "ausentes_com_brancos": 128147,
+      "origem_recebida": "Cópia local recebida em 16/10/2026; download inicial não autenticado",
+      "download_original_em": null,
+      "url_original_confirmada": null,
+      "versao_layout": "Cabeçalho físico inspecionado; correspondência documental integral não verificada"
+    },
+    {
+      "arquivo": "LTDF2506.dbc",
+      "bytes_dbc": 8232,
+      "sha256": "fafb5703eab236ca39d5fa3e650d78ba31901f6fc1d8739de46a2236cd863a6f",
+      "bytes_dbf": 63410,
+      "sha256_dbf": "9e71d681a8d5bac2155cf3ca16dbb3f7181639df8a59eed21ab1c1c74509c661",
+      "linhas": 568,
+      "colunas": 28,
+      "cnes_distintos": 111,
+      "duplicatas_completas": 0,
+      "nulos_python": 0,
+      "ausentes_com_brancos": 4374,
+      "origem_recebida": "Cópia local recebida em 16/10/2026; download inicial não autenticado",
+      "download_original_em": null,
+      "url_original_confirmada": null,
+      "versao_layout": "Cabeçalho físico inspecionado; correspondência documental integral não verificada"
+    }
+  ],
+  "datas": {
+    "DT_INTER": {
+      "min": "2024-09-01",
+      "max": "2025-06-30",
+      "por_mes": {
+        "202409": 4,
+        "202412": 4,
+        "202501": 6,
+        "202502": 80,
+        "202503": 860,
+        "202504": 1487,
+        "202505": 6452,
+        "202506": 12227
+      }
+    },
+    "DT_SAIDA": {
+      "min": "2025-03-01",
+      "max": "2025-06-30",
+      "por_mes": {
+        "202503": 648,
+        "202504": 1103,
+        "202505": 4288,
+        "202506": 15081
+      }
+    }
+  },
+  "tipos_aih": {
+    "1": 21036,
+    "5": 84
+  },
+  "aih_distintas": 21116,
+  "excesso_sobre_aih_distintas": 4,
+  "linhas_na_juncao_inadequada": 307232,
+  "fator_multiplicacao": 14.546969696969697,
+  "linhas_rd_st": 21120,
+  "linhas_agregadas": 32,
+  "chaves_sem_correspondencia": {
+    "RD_sem_ST": [],
+    "RD_sem_LT": [],
+    "LT_sem_ST": []
+  },
+  "leitos_todos_lt": {
+    "QT_EXIST": 10990,
+    "QT_SUS": 5586,
+    "QT_NSUS": 5404,
+    "QT_CONTR": 0
+  },
+  "leitos_apenas_cnes_com_rd": {
+    "QT_EXIST": 6449,
+    "QT_SUS": 5499,
+    "QT_NSUS": 950
+  },
+  "dias_permanencia": 119646,
+  "obitos_registrados": 577,
+  "valor_total_centavos": 3397297919,
+  "dias_diferentes_intervalo_datas": 83,
+  "divergencias_dias_por_ident": {
+    "5": 83
+  },
+  "maior_intervalo_datas": 302,
+  "saida_fora_junho": 6039,
+  "naturezas_juridicas_rd": {
+    "1023": 13163,
+    "3077": 4947,
+    "1139": 1281,
+    "3999": 1061,
+    "3069": 362,
+    "2062": 161,
+    "2054": 145
+  },
+  "tipos_estabelecimento_com_rd": {
+    "05": 23,
+    "07": 7,
+    "62": 1,
+    "61": 1
+  },
+  "testes_estruturais": "PASSARAM",
+  "reconciliacao_tabnet": "NAO_REALIZADA",
+  "validacao_utilidade_com_profissionais": "NÃO REALIZADA"
+}

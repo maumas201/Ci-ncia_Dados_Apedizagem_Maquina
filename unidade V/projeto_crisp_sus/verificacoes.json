@@ -1,0 +1,13 @@
+{
+  "nomes_completos": true,
+  "chave_unica": true,
+  "competencia": true,
+  "cnes_formato": true,
+  "ausencias_campos_usados": true,
+  "contagem_preservada": true,
+  "tipos_preservados": true,
+  "valor_preservado": true,
+  "leitos_subuniverso": true,
+  "nao_negativos": true,
+  "leitos_sus_limite": true
+}
